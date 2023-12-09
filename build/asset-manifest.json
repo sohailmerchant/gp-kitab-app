@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/organizational-chart/static/css/main.3a4ebc74.css",
-    "main.js": "/organizational-chart/static/js/main.8d9910d2.js",
-    "static/media/ismc.jpg": "/organizational-chart/static/media/ismc.97d3e6bb1d5a69021aa6.jpg",
-    "static/media/flag.jpg": "/organizational-chart/static/media/flag.e85b5883a003971205df.jpg",
-    "index.html": "/organizational-chart/index.html",
-    "main.3a4ebc74.css.map": "/organizational-chart/static/css/main.3a4ebc74.css.map",
-    "main.8d9910d2.js.map": "/organizational-chart/static/js/main.8d9910d2.js.map"
+    "main.css": "/gp-kitab-app/static/css/main.3a4ebc74.css",
+    "main.js": "/gp-kitab-app/static/js/main.575538b7.js",
+    "static/media/ismc.jpg": "/gp-kitab-app/static/media/ismc.97d3e6bb1d5a69021aa6.jpg",
+    "static/media/flag.jpg": "/gp-kitab-app/static/media/flag.e85b5883a003971205df.jpg",
+    "index.html": "/gp-kitab-app/index.html",
+    "main.3a4ebc74.css.map": "/gp-kitab-app/static/css/main.3a4ebc74.css.map",
+    "main.575538b7.js.map": "/gp-kitab-app/static/js/main.575538b7.js.map"
   },
   "entrypoints": [
     "static/css/main.3a4ebc74.css",
-    "static/js/main.8d9910d2.js"
+    "static/js/main.575538b7.js"
   ]
 }
